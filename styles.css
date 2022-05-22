@@ -1,0 +1,18 @@
+body {
+    background-color: #eedee6;
+}
+h1 {
+    text-align: center;
+}
+
+li {
+   list-style: none;
+}
+img {
+    padding-left: 50px;
+}
+button {
+   margin: 5px;
+   margin-left: 30px;
+    
+}
